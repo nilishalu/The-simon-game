@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(133, 209, 218);
+}
+
+h1 {
+    font-size: 5rem;
+    text-align: center;
+    font-family: serif;
+}
+
+.options {
+    text-align: center;
+}
+
+.pressed {
+    box-shadow: 0 0 50px white;
+    background-color: rgb(226, 215, 215);
+}
+
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+}
+
+.choice {
+    width: 200px;
+    height: 200px;
+    border: 8px solid rgb(48, 47, 53);
+    border-radius: 15px;
+    margin: 30px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
